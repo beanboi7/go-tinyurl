@@ -1,6 +1,6 @@
 # About
 <li>A url shortner which can be used in the command line
-<li>Build using the TinyURL API in GO
+<li>Built using the TinyURL API in GO
 
 ## How to Use it
 - Clone the repo and `cd` into the root folder <br>
